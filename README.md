@@ -38,7 +38,7 @@ The smart contract is written in Solidity and deployed on the Ethereum blockchai
 2. Navigate to the project directory:
          cd your-repository
 
-3. Deploy the Ethereum blockchain smart contract. If you do not want to deploy, you can use the following predeployed smart contract (already availeble in the code).
+3. Deploy the Ethereum blockchain smart contract. If you do not want to deploy, you can use the following predeployed smart contract (already available in the code).
 
 4. Run the event monitoring service:
           cd your-repository
